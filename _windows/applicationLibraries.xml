@@ -1,0 +1,37 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 3.7 (cs6035-project3) interpreter library">
+      <CLASSES>
+        <root url="file://D:/Programs/Python/Python3/DLLs" />
+        <root url="file://D:/Programs/Python/Python3/Lib" />
+        <root url="file://D:/Programs/Python/Python3" />
+        <root url="file://D:/Projects/school/CS-6035/cs6035-project3/venv" />
+        <root url="file://D:/Projects/school/CS-6035/cs6035-project3/venv/Lib/site-packages" />
+        <root url="jar://D:/Projects/school/CS-6035/cs6035-project3/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" />
+        <root url="file://D:/Projects/school/CS-6035/cs6035-project3/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.1/system/python_stubs/-405458346" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://D:/Programs/Python/Python3/DLLs" />
+        <root url="file://D:/Programs/Python/Python3/Lib" />
+        <root url="file://D:/Programs/Python/Python3" />
+        <root url="file://D:/Projects/school/CS-6035/cs6035-project3/venv" />
+        <root url="file://D:/Projects/school/CS-6035/cs6035-project3/venv/Lib/site-packages" />
+        <root url="jar://D:/Projects/school/CS-6035/cs6035-project3/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" />
+        <root url="file://D:/Projects/school/CS-6035/cs6035-project3/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.1/system/python_stubs/-405458346" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
