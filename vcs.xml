@@ -10,6 +10,10 @@
           <option name="url" value="git@github.gatech.edu:/jyacovelli3/cs6035-project3.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.gatech.edu/jyacovelli3/cs6035-project3.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\jjyac\Development\school\CS-6035" />

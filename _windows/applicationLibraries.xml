@@ -1,0 +1,74 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 2.7 interpreter library">
+      <CLASSES>
+        <root url="file://C:/Python27/DLLs" />
+        <root url="file://C:/Python27/Lib" />
+        <root url="file://C:/Python27/Lib/lib-tk" />
+        <root url="file://C:/Python27" />
+        <root url="file://C:/Python27/Lib/site-packages" />
+        <root url="file://C:/Python27/Lib/site-packages/win32" />
+        <root url="file://C:/Python27/Lib/site-packages/win32/lib" />
+        <root url="file://C:/Python27/Lib/site-packages/pythonwin" />
+        <root url="file://C:/Python27/Lib/site-packages/wx-2.8-msw-unicode" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.1/system/python_stubs/-762174762" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/Python27/DLLs" />
+        <root url="file://C:/Python27/Lib" />
+        <root url="file://C:/Python27/Lib/lib-tk" />
+        <root url="file://C:/Python27" />
+        <root url="file://C:/Python27/Lib/site-packages" />
+        <root url="file://C:/Python27/Lib/site-packages/win32" />
+        <root url="file://C:/Python27/Lib/site-packages/win32/lib" />
+        <root url="file://C:/Python27/Lib/site-packages/pythonwin" />
+        <root url="file://C:/Python27/Lib/site-packages/wx-2.8-msw-unicode" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.1/system/python_stubs/-762174762" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.7 (cs6035-project3) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/DLLs" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32" />
+        <root url="file://$USER_HOME$/Development/school/CS-6035/cs6035-project3/venv" />
+        <root url="file://$USER_HOME$/Development/school/CS-6035/cs6035-project3/venv/Lib/site-packages" />
+        <root url="jar://$USER_HOME$/Development/school/CS-6035/cs6035-project3/venv/Lib/site-packages/setuptools-39.1.0-py3.7.egg!/" />
+        <root url="file://$USER_HOME$/Development/school/CS-6035/cs6035-project3/venv/Lib/site-packages/pip-10.0.1-py3.7.egg" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.1/system/python_stubs/450619585" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/DLLs" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32" />
+        <root url="file://$USER_HOME$/Development/school/CS-6035/cs6035-project3/venv" />
+        <root url="file://$USER_HOME$/Development/school/CS-6035/cs6035-project3/venv/Lib/site-packages" />
+        <root url="jar://$USER_HOME$/Development/school/CS-6035/cs6035-project3/venv/Lib/site-packages/setuptools-39.1.0-py3.7.egg!/" />
+        <root url="file://$USER_HOME$/Development/school/CS-6035/cs6035-project3/venv/Lib/site-packages/pip-10.0.1-py3.7.egg" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.1/system/python_stubs/450619585" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
