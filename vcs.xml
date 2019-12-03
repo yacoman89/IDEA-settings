@@ -18,8 +18,12 @@
           <option name="url" value="https://github.gatech.edu/jyacovelli3/cs6035-project4.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/laithalsaadoon/remars2019-revegas-workshop" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\jjyac\Development\school\CS-6035" />
+    <option name="cloneParentDir" value="C:\Users\jjyac\Development\re-Invent-2019" />
   </component>
 </application>
