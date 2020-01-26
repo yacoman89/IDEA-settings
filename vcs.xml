@@ -42,8 +42,12 @@
           <option name="url" value="https://github.gatech.edu/jyacovelli3/CS-6515-Playground.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:yacoman89/win-bashrc-config.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\jjyac\Development\school" />
+    <option name="cloneParentDir" value="C:\Users\jjyac\Development" />
   </component>
 </application>
