@@ -66,5 +66,104 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
+    <library name="Python 3.7 (deep_racer) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/DLLs" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32" />
+        <root url="file://$USER_HOME$/Development/deep_racer/venv" />
+        <root url="file://$USER_HOME$/Development/deep_racer/venv/Lib/site-packages" />
+        <root url="jar://$USER_HOME$/Development/deep_racer/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" />
+        <root url="file://$USER_HOME$/Development/deep_racer/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.3/system/python_stubs/-660615963" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/DLLs" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32" />
+        <root url="file://$USER_HOME$/Development/deep_racer/venv" />
+        <root url="file://$USER_HOME$/Development/deep_racer/venv/Lib/site-packages" />
+        <root url="jar://$USER_HOME$/Development/deep_racer/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" />
+        <root url="file://$USER_HOME$/Development/deep_racer/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.3/system/python_stubs/-660615963" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.8 (CS-6515-Playground) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/DLLs" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/Lib" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32" />
+        <root url="file://$USER_HOME$/Development/school/CS-6515/CS-6515-Playground/venv" />
+        <root url="file://$USER_HOME$/Development/school/CS-6515/CS-6515-Playground/venv/Lib/site-packages" />
+        <root url="jar://$USER_HOME$/Development/school/CS-6515/CS-6515-Playground/venv/Lib/site-packages/setuptools-40.8.0-py3.8.egg!/" />
+        <root url="file://$USER_HOME$/Development/school/CS-6515/CS-6515-Playground/venv/Lib/site-packages/pip-19.0.3-py3.8.egg" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.3/system/python_stubs/1234884219" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/DLLs" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/Lib" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32" />
+        <root url="file://$USER_HOME$/Development/school/CS-6515/CS-6515-Playground/venv" />
+        <root url="file://$USER_HOME$/Development/school/CS-6515/CS-6515-Playground/venv/Lib/site-packages" />
+        <root url="jar://$USER_HOME$/Development/school/CS-6515/CS-6515-Playground/venv/Lib/site-packages/setuptools-40.8.0-py3.8.egg!/" />
+        <root url="file://$USER_HOME$/Development/school/CS-6515/CS-6515-Playground/venv/Lib/site-packages/pip-19.0.3-py3.8.egg" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.3/system/python_stubs/1234884219" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.8 (deepracer2020) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/DLLs" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/Lib" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32" />
+        <root url="file://$USER_HOME$/Development/bti/deepracer2020/venv" />
+        <root url="file://$USER_HOME$/Development/bti/deepracer2020/venv/Lib/site-packages" />
+        <root url="jar://$USER_HOME$/Development/bti/deepracer2020/venv/Lib/site-packages/setuptools-40.8.0-py3.8.egg!/" />
+        <root url="file://$USER_HOME$/Development/bti/deepracer2020/venv/Lib/site-packages/pip-19.0.3-py3.8.egg" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.3/system/python_stubs/-739558494" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/DLLs" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/Lib" />
+        <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32" />
+        <root url="file://$USER_HOME$/Development/bti/deepracer2020/venv" />
+        <root url="file://$USER_HOME$/Development/bti/deepracer2020/venv/Lib/site-packages" />
+        <root url="jar://$USER_HOME$/Development/bti/deepracer2020/venv/Lib/site-packages/setuptools-40.8.0-py3.8.egg!/" />
+        <root url="file://$USER_HOME$/Development/bti/deepracer2020/venv/Lib/site-packages/pip-19.0.3-py3.8.egg" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2019.3/system/python_stubs/-739558494" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
   </component>
 </application>
