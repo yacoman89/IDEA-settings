@@ -78,9 +78,13 @@
           <option name="url" value="git@gitlab.com:bti360-mountaintop/restflow.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.com:bti360-mountaintop/rainier/nx-crest.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\jjyac\Development\bti\Mountain_Top" />
+    <option name="cloneParentDir" value="$USER_HOME$/Development/mountain-top/alternate" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
